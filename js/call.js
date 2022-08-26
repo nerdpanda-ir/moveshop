@@ -1,0 +1,2 @@
+eventTagFullscrion("#windowMaximize")
+reloeadPage("#reloadPage")

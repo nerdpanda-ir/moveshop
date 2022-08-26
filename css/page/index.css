@@ -1,2 +1,50 @@
 @import url("../lib/bootstrap.css");
-@import url('../components/welcome.css');
+/*-------------- body and html -----------------*/
+body{
+    direction: rtl;
+    font-family: "vazir-regular";
+}
+/*-------------- body and html ------------------*/
+
+/*-------------- header style ------------------*/
+header#topHeader{
+    height: 300px;
+    border-bottom: 1px solid blueviolet;
+}
+    /*-------------- top nav style ------------------*/
+        nav#topNavBar{
+            height: 65px;
+        }
+        i#topNavIcon{
+            font-size:38px;
+            vertical-align: -27px;
+            margin-left: 15px;
+        }
+        h1#TitleWeb{
+            vertical-align: -18px;
+
+        }
+        #leftIcons{        padding: 20px 0px; direction: ltr;}
+        #leftIcons ul li{display: inline-block ; margin-right: 18px;}
+        #leftIcons span{color: white; cursor: pointer}
+        #leftIcons span i{    font-size: 25px;}
+        #shoppingBagWrapper{
+            margin-right: 26px !important;
+        }
+        #orderCount{
+            top: -17px;
+            left: 84%;
+            background: white;
+            width: 22px;
+            height: 22px;
+            color: #0078e7 !important;
+            box-sizing: border-box;
+            text-align: center;
+            display: inline-block;
+            border-radius: 100%;
+            line-height: 27px;
+            font-size: 18px;
+
+        }
+    /*-------------- top nav style ------------------*/
+/*-------------- header style ------------------*/

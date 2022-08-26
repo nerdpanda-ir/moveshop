@@ -1,1 +1,44 @@
 @import url("font-classes/font-classes.css");
+.container{margin: 0 auto ;}
+/*------------ gride ----------------- */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+
+/*------------ gride ----------------- */
+
+/*------------ font ----------------- */
+    .f18{font-size: 18px;}
+    .f19{font-size: 19px;}
+    .f20{font-size: 20px;}
+    .f21{font-size: 21px;}
+/*------------ font ----------------- */
+
+
+
+/*----------- bg and fore color ----------------*/
+    .bg_blue{background:#0078e7;}
+    .cl_white{color:#fff;}
+/*----------- bg and fore color ----------------*/
+
+/*----------- box style ----------------*/
+    .shadowBox{
+        box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.36);
+    }
+    .h100{height: 100%}
+    .disInblk{display: inline-block}
+    .flL{float: left}
+    .clearBoth{clear: both;}
+    .boxSizeingBB{box-sizing: border-box}
+    .posRel{position: relative}
+    .posAb{position: absolute}
+/*----------- box style ----------------*/
